@@ -1,11 +1,10 @@
-.header {
-    font-family: 40px;
+header {
+    font-family: sans serif;
     background-color: green;
     color: white;
-    font-size: 200%;
+    font-size: 400%;
     text-align: center;
-    font-weight: bold;  
-}
-nav {
-    font-family: large;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
 }
